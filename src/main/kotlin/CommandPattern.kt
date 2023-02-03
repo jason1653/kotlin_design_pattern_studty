@@ -1,4 +1,5 @@
 /**
+ * command 패턴은 명령을 객체로 캡슐화하는 패턴이다.
  */
 interface OrderCommand {
     fun execute()

@@ -1,4 +1,6 @@
 /**
+ * state패턴이란
+ * 객체의 상태에 따라 행동을 변경한다.
  * kotlin sealed class는 상속을 허용하지 않는다.
  */
 sealed class AuthorizationState

@@ -1,4 +1,6 @@
 /**
+ * composite패턴이란
+ * 객체들을 트리 구조로 구성하여 부분-전체 계층을 표현하는 패턴이다.
  * kotlin에서는 open class를 사용하여 상속을 허용한다.
  */
 open class Eqipment(
